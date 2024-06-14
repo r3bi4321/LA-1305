@@ -2,14 +2,14 @@
 
 
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|03.05.2024|0.0.1| User Stories und Testfälle geschrieben                        |
-|17.05.2024|0.0.2| Arbeitspakete erstellt, mit Realisieren begonnen.             |
-|24.05.2024|0.0.3| Arbeitspaket 1 fertiggestellt                                 |
-|31.05.2024|0.0.4| Arbeitspaket 2 fertiggestellt                                 |
-|07.06.2024|0.0.5| Arbeitspaket 3 und 4 fertiggestellt                           | 
-|14.06.2024|0.0.6| Kontrolliert und Portfolio geschrieben                        |
+| Datum | Version | Zusammenfassung                                          |
+| ----- | ------- | -------------------------------------------------------- |
+|03.05.2024|0.0.1| User Stories und Testfälle geschrieben                    |
+|17.05.2024|0.0.2| Arbeitspakete erstellt, mit Realisieren begonnen.         |
+|24.05.2024|0.0.3| Arbeitspaket 1 und  2                                     |
+|31.05.2024|0.0.4| Arbeitspaket 5 und  6                                     |
+|07.06.2024|0.0.5| Arbeitspaket 7 und  8                                     | 
+|14.06.2024|0.0.6| Kontrolliert und Portfolio geschrieben                    |
 
 ## 1 Informieren
 
@@ -57,6 +57,8 @@ Ich möchte einen Vokabelrtainer erstellen. Die Vokabeln sollen in einer NOSQL D
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 14.06.2024  |           |              |               |
 | 2.A  | 14.06.2024  |           |              |               |
+| 3.A  | 14.06.2024  |           |              |               |
+| 4.A  | 14.06.2024  |           |              |               |
 
 
 ## 3 Entscheiden
