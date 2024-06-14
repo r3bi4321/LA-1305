@@ -55,10 +55,14 @@ Ich möchte einen Vokabelrtainer erstellen. Die Vokabeln sollen in einer NOSQL D
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 14.06.2024  |           |              |               |
-| 2.A  | 14.06.2024  |           |              |               |
-| 3.A  | 14.06.2024  |           |              |               |
-| 4.A  | 14.06.2024  |           |              |               |
+| 1.A  | 14.06.2024  | Rebecca Willi          |  Vokabel erfassen            |     90min          |
+| 2.A  | 14.06.2024  | Rebecca Willi          |    Übersetzung erfassen          |     60min          |
+| 3.A  | 14.06.2024  | Rebecca Willi          |      Eingaben speichern        |       90min        |
+| 4.A  | 14.06.2024  | Rebecca Willi          |    Eingaben in DB speichern          |    150min           |
+| 5.A  | 14.06.2024  | Rebecca Willi          |    Ältere sets öffnen können       | 30min| 
+| 6.A  | 14.06.2024  | Rebecca Willi          |  Antworten überprüfen | 60min|
+| 7.A  | 14.06.2024  | Rebecca Willi          | Antworten wiederholen | 45min | 
+| 8.A  | 14.06.2024  | Rebecca Willi          | Abfrage Wiederholen | 60 min| 
 
 
 ## 3 Entscheiden
@@ -70,7 +74,8 @@ Ich möchte einen Vokabelrtainer erstellen. Die Vokabeln sollen in einer NOSQL D
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 2.A  |       |           |               |                   |
+| 3.A  | 
 
 
 ## 5 Kontrollieren
@@ -82,7 +87,4 @@ Ich möchte einen Vokabelrtainer erstellen. Die Vokabeln sollen in einer NOSQL D
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
 
