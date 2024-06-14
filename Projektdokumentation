@@ -23,8 +23,15 @@ Ich möchte einen Vokabelrtainer erstellen. Die Vokabeln sollen in einer NOSQL D
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Muss  | Funktionalität | Als User möchte ich die Vokabeln erfassen können. |
+| 2    | Muss  | Funktionalität | Als User möchte ich, die Übersetzung zu jedem Wort eingeben können.|
+| 3    | Muss  | Funktionalität | Als User möchte ich die eingegebenen Vokabeln speichern können.|
+| 4    | Muss  | Funktionalität | Als Programmierer möchte ich, dass die Vokabeln in einer MongoDB gespeichert werden.| 
+| 5    | Muss  | Funktionalität | Als User möchte ich auch ältere Sets üben können.|
+| 6    | Muss  | Funktionalität | Als User möchte ich eines der gespeicherten Lernsets lernen können.|
+| 7    | Muss  | Funktionalität | Als User möchte ich, dass die Antworten überprüft werden.|
+| 8    | Muss  | Funktionalität | Als User möchte ich, dass Wörter welche falsch beantwortet wurden, wiederholt werden.| 
+| 9    | Muss  | Funktionalität | Als User möchte ich, dass ich jedes Wort 2 mal richtig schrieben muss, damit es als gelernt gilt.| 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
