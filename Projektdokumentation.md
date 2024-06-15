@@ -73,18 +73,27 @@ Ich möchte einen Vokabelrtainer erstellen. Die Vokabeln sollen in einer NOSQL D
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| 2.A  |       |           |               |                   |
-| 3.A  | 
+| 1.A  | 24.05.2024| Rebecca Willi|    90min           |       105min            |
+| 2.A  | 24.05.2024| Rebecca Willi|     60min          |       60min            |
+| 6.A  | 31.05.2024| Rebecca Willi| 60min | 75min
+| 7.A  | 31.05.2024| Rebecca Willi| 45min| 60min
+| 8.A  | 31.05.2024| Rebecca Willi|60min| 45min |
 
+Restliche Zeit wurde für den Versuch die DB zu verbinden verwendet.
 
 ## 5 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 14.06.2024|     OK     |  Rebecca Willi      |
+| 2.1  | 14.06.2024|     OK     |  Rebecca Willi      |
+| 3.1  | 14.06.2024|      NOK   | Rebecca Willi
+| 4.1  | 14.06.2024|      NOK|    Rebecca Willi | 
+| 5.1  | 14.06.2024|      NOK|    Rebecca Willi|
+| 6.1  | 14.06.2024|      OK|      Rebecca Willi|
+| 6.2  | 14.06.2024|  OK|        Rebecca Willi|
+| 7.1  | 14.06.2024|      OK|     Rebecca Willi|
+| 8.1  | 14.06.2024|      OK |     Rebecca Willi|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
+Die Applikation funktioniert nicht so wie sie sollte. Die Daten können nicht in die Datenbank gespeichert werden. So muss man zu beginn die Wörter jedes mal neu eingeben.
 
